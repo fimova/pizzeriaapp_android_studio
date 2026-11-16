@@ -1,0 +1,7 @@
+package com.example.pizzeriaapp.model
+
+enum class CategoriaProducto {
+    PIZZA,
+    BEBIDA,
+    INGREDIENTE
+}

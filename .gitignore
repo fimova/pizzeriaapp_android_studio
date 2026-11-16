@@ -1,0 +1,35 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Archivos generados
+.kotlin/
+**/build/
+
+# Archivos generados por Android y herramientas nativas
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Paquetes compilados
+*.apk
+*.aab
+
+# Claves de firma: no subirlas al repositorio
+*.jks
+*.keystore
+
+# Archivos del sistema operativo
+Thumbs.db
